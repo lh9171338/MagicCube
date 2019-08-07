@@ -4,11 +4,11 @@
 # 2. Usage
 ## 2.1 Parameters    
 Order:     
->>The order of the Order of the Rubik's cube.  
+>>The order of the Rubik's cube.  
 >>Range of the value: **[2, 9]**.  
 
 Size:    
->>The size of each block of the Rubik's cube.  
+>>The block size of the Rubik's cube.  
 >>Range of the value: **Positive number**.  
 
 Draw3d：    
@@ -21,13 +21,13 @@ Iter:
 
 ## 2.2 Keyboard control  
 'W' / 'w':  
->>Rotate front -> bottom -> back -> up.
+>>Rotate front -> up -> back -> bottom.
 
 'S' / 's':  
 >>Rotate front -> bottom -> back -> up.
 
 'A' / 'a':  
->>Rotate front -> left -> back -> righ.
+>>Rotate front -> left -> back -> right.
 
 'D' / 'd':  
 >>Rotate front -> right -> back -> left.
