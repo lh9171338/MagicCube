@@ -41,8 +41,8 @@
 >>Run MagicCube.m with Matlab.
 
 # 3. Images
-![image](https://github.com/lh9171338/Matlab-MagicCube/blob/master/image/3order-3D.jpg)
-![image](https://github.com/lh9171338/Matlab-MagicCube/blob/master/image/4order-3D.jpg)
+![image](https://github.com/lh9171338/Matlab-MagicCube/blob/master/image/3order-3D.jpg)  
+![image](https://github.com/lh9171338/Matlab-MagicCube/blob/master/image/4order-3D.jpg)  
 ![image](https://github.com/lh9171338/Matlab-MagicCube/blob/master/image/3order-2D.jpg)
 
 # 4. More Resources
