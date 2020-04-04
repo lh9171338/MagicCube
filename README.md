@@ -1,5 +1,5 @@
 # 1. Introduction
->>This depository is a Magic cube (Rubik's cube) game implemented by Matlab.
+>>This repository is a Magic cube (Rubik's cube) game implemented by Matlab.
 
 # 2. Usage
 ## 2.1 Parameters 
@@ -46,4 +46,4 @@
 ![image](https://github.com/lh9171338/Matlab-MagicCube/blob/master/image/3order-2D.jpg)
 
 # 4. More Resources
-- [Github link](https://github.com/lh9171338/Outline)
+- [Github Link](https://github.com/lh9171338/Outline)
