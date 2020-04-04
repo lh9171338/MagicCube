@@ -1,5 +1,5 @@
 # 1. Introduction
->>Magic cube (Rubik's cube) game implemented by Matlab.
+>>This depository is a Magic cube (Rubik's cube) game implemented by Matlab.
 
 # 2. Usage
 ## 2.1 Parameters 
@@ -15,7 +15,7 @@
 - Iter:
 >>Times to disrupt the Rubik's cube during initialization.
 >>Range of the value: **Positive integer number**.
-## 2.2 Keyboard control  
+## 2.2 Keyboard Control  
 - 'W' / 'w':
 >>Rotate front -> up -> back -> bottom.
 - 'S' / 's':
@@ -39,7 +39,11 @@
 >>Rotate Nth row or column.
 ## 2.3 Run
 >>Run MagicCube.m with Matlab.
+
 # 3. Images
 ![image](https://github.com/lh9171338/Matlab-MagicCube/blob/master/image/3order-3D.jpg)
 ![image](https://github.com/lh9171338/Matlab-MagicCube/blob/master/image/4order-3D.jpg)
 ![image](https://github.com/lh9171338/Matlab-MagicCube/blob/master/image/3order-2D.jpg)
+
+# 4. More Resources
+- [Github link](https://github.com/lh9171338/Outline)
