@@ -1,3 +1,6 @@
+[<img height="23" src="https://github.com/lh9171338/Outline/blob/master/icon.jpg"/>](https://github.com/lh9171338/Outline) Magic Cube
+===
+
 # 1. Introduction
 >>This repository is a Magic cube (Rubik's cube) game implemented by Matlab.
 
@@ -44,6 +47,3 @@
 ![image](https://github.com/lh9171338/Matlab-MagicCube/blob/master/image/3order-3D.jpg)  
 ![image](https://github.com/lh9171338/Matlab-MagicCube/blob/master/image/4order-3D.jpg)  
 ![image](https://github.com/lh9171338/Matlab-MagicCube/blob/master/image/3order-2D.jpg)
-
-# 4. More Resources
-- [Github Link](https://github.com/lh9171338/Outline)
